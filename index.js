@@ -18,3 +18,6 @@ function daysInMonth(date,format){
 // console.log(timeToNow([2008, 5, 29]))
 // console.log(TimeFromAToB([2007, 5, 29],[2007, 3, 29]))
 console.log(daysInMonth("02-25-1995", "MM-DD-YYYY"))
+
+
+
